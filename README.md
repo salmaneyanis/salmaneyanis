@@ -39,3 +39,6 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 ## Sonic Say:
 
 ![Logo](https://i.pinimg.com/736x/55/9a/c6/559ac63453798002e3a4d8127850fd30.jpg)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
