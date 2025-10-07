@@ -8,9 +8,11 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 💻 Le code fait partie de ma vie et me permet de progresser chaque jour en créant des projets variés.
 
-🎮 Mes soirées ? Entre Sonic Racing Crossworlds et Super Smash Bros Ultimate.
+💻 Passionné par le développement logiciel et les technologies, je crée et participe à divers projets pour approfondir mes compétences en programmation  et résolution de problèmes.
 
-🎧 OST de Sonic pour le boost de motivation.
+📂 Sur ce compte, vous trouverez mes travaux réalisés dans le cadre du BUT mais aussi mes projets personnels et autres contributions.
+
+
 
 🚀 Objectif : fusionner mes passions et le code.
 
