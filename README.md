@@ -7,7 +7,7 @@
 
 ---
 
-Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT Informatique).
+Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT Informatique) (Illkirch / Strasbourg) .
 
 ⚡ Fan de jeux vidéo, anime et manga.
 
@@ -16,6 +16,8 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 💻 Passionné par le développement logiciel et les technologies, je crée et participe à divers projets pour approfondir mes compétences en programmation  et résolution de problèmes.
 
 📂 Sur ce compte, vous trouverez mes travaux tutorés réalisés dans le cadre du BUT mais aussi mes projets personnels et autres contributions.
+
+
 
 
 
@@ -39,12 +41,8 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaneyanis&layout=compact&&langs_count=6"/>
 
-</div>
 
-## Sonic Say:
-<div align="center">
 
-![Logo](https://i.pinimg.com/736x/55/9a/c6/559ac63453798002e3a4d8127850fd30.jpg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
