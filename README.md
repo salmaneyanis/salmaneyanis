@@ -3,7 +3,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yanis%20SALMANE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🌌Bienvenue🌌%20&descAlignY=55&descSize=18)
 
-
+</div>
 
 Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT Informatique).
 
@@ -40,5 +40,8 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 ![Logo](https://i.pinimg.com/736x/55/9a/c6/559ac63453798002e3a4d8127850fd30.jpg)
 
+<div align="center">
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
+</div>
