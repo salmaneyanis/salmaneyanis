@@ -21,6 +21,13 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cs,godot,java,js,php,dotnet,lua,html,css,git,github,gitlab,robloxstudio,sqlite,vim,vscode,visualstudio,discord,&perline=10)](https://skillicons.dev)
 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Igrekop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Igrekop&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&layout=compact&theme=dark&cache_seconds=1700)
+
+
+
 ## Sonic Say:
 
 ![Logo](https://i.pinimg.com/736x/55/9a/c6/559ac63453798002e3a4d8127850fd30.jpg)
