@@ -26,7 +26,8 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 ![](https://nirzak-streak-stats.vercel.app/?user=Igrekop&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&layout=compact&theme=dark&cache_seconds=1700)
 
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Igrekop&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ## Sonic Say:
 
