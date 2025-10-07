@@ -5,6 +5,8 @@
 
 </div>
 
+---
+
 Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT Informatique).
 
 ⚡ Fan de Sonic (la chose la plus rapide de l'univers), je partage mon temps entre jeux vidéo, anime et manga.
@@ -19,7 +21,11 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 🚀 Objectif : fusionner mes passions et le code.
 
+<div align="center">
+
 ![Logo](https://media1.tenor.com/m/p7fUsxYSJrcAAAAC/sonic-sonic-the-hedgehog.gif) 
+
+</div>
 
 ## Tech
 
@@ -27,9 +33,7 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Igrekop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Igrekop&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&layout=compact&theme=dark&cache_seconds=1700)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=salmaneyanis&limit=10&theme=dark&combine_all_yearly_contributions=true)
