@@ -34,9 +34,8 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 ## 📊 GitHub Stats:
 
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=salmaneyanis&limit=10&theme=dark&combine_all_yearly_contributions=true)
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaneyanis&layout=compact&&langs_count=6"/>
 
 
 
