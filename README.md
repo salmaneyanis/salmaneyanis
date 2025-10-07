@@ -9,7 +9,7 @@
 
 Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT Informatique).
 
-⚡ Fan de Sonic (la chose la plus rapide de l'univers), je partage mon temps entre jeux vidéo, anime et manga.
+⚡ Fan de jeux vidéo, anime et manga.
 
 💻 Le code fait partie de ma vie et me permet de progresser chaque jour en créant des projets variés.
 
