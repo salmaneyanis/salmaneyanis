@@ -14,7 +14,7 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 💻 Passionné par le développement logiciel et les technologies, je crée et participe à divers projets pour approfondir mes compétences en programmation  et résolution de problèmes.
 
-📂 Sur ce compte, vous trouverez mes travaux réalisés dans le cadre du BUT mais aussi mes projets personnels et autres contributions.
+📂 Sur ce compte, vous trouverez mes travaux tutorés réalisés dans le cadre du BUT mais aussi mes projets personnels et autres contributions.
 
 
 
