@@ -1,10 +1,9 @@
 ## Yanis SALMANE
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yanis%20SALMANE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Bienvenue%20&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yanis%20SALMANE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🌌Bienvenue🌌%20&descAlignY=55&descSize=18)
 
 
-🌌 Bienvenue 🌌
 
 Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT Informatique).
 
