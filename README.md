@@ -35,14 +35,14 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 
 ## 📊 GitHub Stats:
-<div align="center">
+
 
 ![](https://github-contributor-stats.vercel.app/api?username=salmaneyanis&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaneyanis&layout=compact&&langs_count=6"/>
 
 
-
+<div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
