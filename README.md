@@ -23,11 +23,7 @@ Je m’appelle Yanis – étudiant en informatique à l'IUT Robert-Schuman (BUT 
 
 🚀 Objectif : fusionner mes passions et le code.
 
-<div align="center">
 
-![Logo](https://media1.tenor.com/m/p7fUsxYSJrcAAAAC/sonic-sonic-the-hedgehog.gif) 
-
-</div>
 
 ## Tech
 
